@@ -1,0 +1,2 @@
+- 파이썬 방학특강 Day01 질문사항 - https://chambray-polonium-827.notion.site/Day01-182ac6a383ea80ca889be9992ed27419 <br>
+- 파이썬 방학특강 Day02 질문사항 - https://chambray-polonium-827.notion.site/Day02-183ac6a383ea808fb3c7d70309a26a2f <br>
