@@ -4,6 +4,8 @@
 - 파이썬 방학특강 Day04 질문사항 - https://chambray-polonium-827.notion.site/Day04-184ac6a383ea80339e0fcb1d8e8978a8 <br>
 - 파이썬 방학특강 Day05 질문사항 - https://chambray-polonium-827.notion.site/Day05-185ac6a383ea803e9e25e7185f179594 <br>
 - 파이썬 방학특강 Day06 질문사항 - https://chambray-polonium-827.notion.site/Day06-18dac6a383ea8097b44cd63da963089c <br>
+- 파이썬 방학특강 Day07 질문사항 - https://chambray-polonium-827.notion.site/Day07-190ac6a383ea808cbf18f32be5057802 <br>
+- 파이썬 방학특강 Day08 질문사항 - https://chambray-polonium-827.notion.site/Day08-192ac6a383ea80c092f3fce50a24454c <br>
 
 - 추가 자료(함수와 메서드) - https://chambray-polonium-827.notion.site/164ac6a383ea8070b512f24d4253a22c <br>
 - 추가 자료(파이썬의 다양한 출력 형식) - https://chambray-polonium-827.notion.site/161ac6a383ea8067a5d1e871fecc2f77 <br>
